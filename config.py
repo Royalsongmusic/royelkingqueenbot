@@ -14,13 +14,13 @@ API_HASH = getenv("API_HASH")
 # ------------------------------------------------------
 BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","lXl_DEVIL_l")
+OWNER_USERNAME = getenv("OWNER_USERNAME","II_ROYALENTRY1128_II")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "l_OP_ll_MUSIC_ll_BOT")
+BOT_USERNAME = getenv("BOT_USERNAME" , "Queenhoneybot")
 # --------------------------------------------------------
 BOT_NAME = getenv("BOT_NAME" , "QUEEN")
 # ---------------------------------------------------------
-ASSUSERNAME = getenv("ASSUSERNAME" , "KHWAAISH_HOON")
+ASSUSERNAME = getenv("ASSUSERNAME" , "QueenhoneyboT12")
 # ---------------------------------------------------------
 
 
@@ -35,10 +35,10 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 # ----------------------------------------------------------------
 
 # ----------------------------------------------------------------
-LOGGER_ID = int(getenv("LOGGER_ID", -1002022711717))
+LOGGER_ID = int(getenv("LOGGER_ID", -1002132108601))
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", 7012132283))
+OWNER_ID = int(getenv("OWNER_ID", 1384525218))
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 
@@ -53,7 +53,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 # ----------------------------------------------------------------
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/KING0712/QUEEN_MUSIC",
+    "https://github.com/Royalsongmusic/royelkingqueenbot",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
@@ -67,8 +67,8 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/+g-u7XYsReNQ4NjQ9")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+g-u7XYsReNQ4NjQ9")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/royalmusibotl")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/royalmusicboto")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
